@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  goal_calender_id: 1
+  reviewer: MyString
+  approver: MyString
+
+two:
+  user_id: 1
+  goal_calender_id: 1
+  reviewer: MyString
+  approver: MyString
